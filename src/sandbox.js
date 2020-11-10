@@ -2,6 +2,4 @@ const sandbox = () => {
 
 };
 
-module.exports = {
-  sandbox
-}
+module.exports = sandbox
