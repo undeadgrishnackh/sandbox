@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/undeadgrishnackh/sandbox#readme",
   "dependencies": {
-    "jest": "^26.6.3"
+    "jest": "^29.7.0"
   }
 }
